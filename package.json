@@ -2,7 +2,7 @@
   "name": "GalacteaGroup",
   "private": true,
   "version": "0.0.0",
-  "description": "a Sails application",
+  "description": " a presentation website of the GalacteaGroup",
   "keywords": [],
   "dependencies": {
     "ejs": "~0.8.4",
@@ -30,8 +30,11 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/julien/GalacteaGroup.git"
+    "url": "git://github.com/ozytwyst/GalacteaGroup.git"
   },
-  "author": "julien",
-  "license": ""
+  "author": "ozydev",
+  "license": "",
+  "devDependencies": {
+    "should": "^7.0.1"
+  }
 }
